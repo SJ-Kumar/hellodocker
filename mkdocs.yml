@@ -1,10 +1,9 @@
 site_name: Hello Docker Documentation
-theme: material
+#theme: material
+#nav:
+# - Home: index.md
+#- Getting Started: getting-started.md
+# - Contributing: contributing.md
 
-nav:
-  - Home: index.md
-  - Getting Started: getting-started.md
-  - Contributing: contributing.md
-
-markdown_extensions:
-  - admonition
+#markdown_extensions:
+# - admonition
